@@ -9,7 +9,7 @@
 
 ### 🛠️ Projelerim
 
-- 🔹 [ProductApp – Ürün Yönetim Sistemi](https://github.com/yavuzsevimdev/ProductApp)
+- 🔹 [CourseApp - Kurs Yönetim Uygulaması](https://github.com/yavuzsevimdev/CourseApp)
 - 🔹 [JWT Auth API – Kimlik Doğrulama](https://github.com/yavuzsevimdev/JWT-Auth-API)
 - 🔹 [CategoryManager – Kategori Yönetimi](https://github.com/yavuzsevimdev/CategoryManager)
 
